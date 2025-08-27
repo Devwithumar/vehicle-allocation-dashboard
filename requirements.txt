@@ -1,0 +1,9 @@
+streamlit>=1.22
+pandas>=1.5
+openpyxl>=3.0
+plotly>=5.13
+numpy
+fastapi>=0.95
+uvicorn>=0.22
+sqlalchemy>=1.4
+python-dotenv
